@@ -79,6 +79,9 @@ Exemplo de retorno de erro:
 }
 
 🗂️ Estrutura do projeto
+## 🗂️ Estrutura do projeto
+
+```text
 src/
 ├─ config/             # Configurações (database.ts, env.ts)
 ├─ controllers/        # Controladores (empresaController.ts)
@@ -87,6 +90,8 @@ src/
 ├─ services/           # Serviços (empresaService.ts)
 ├─ validations/        # Validações (empresaValidation.ts)
 └─ index.ts            # Arquivo principal
+```
+
 
 
 📦 Scripts úteis
