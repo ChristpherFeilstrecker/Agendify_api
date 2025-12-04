@@ -88,6 +88,7 @@ src/
 ├─ validations/        # Validações (empresaValidation.ts)
 └─ index.ts            # Arquivo principal
 
+
 📦 Scripts úteis
 Comando	Descrição
 npm run dev	Inicia servidor em desenvolvimento (nodemon)
@@ -97,5 +98,6 @@ npm run build	Transpila TypeScript (se aplicável)
 
 Desenvolvedor: Christopher Feilstrecker
 GitHub: Seu GitHub
+
 
 Email: seuemail@exemplo.com
